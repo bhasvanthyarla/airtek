@@ -1,0 +1,6 @@
+config:
+  Atek-Deployment:containerPort: "5000"
+  Atek-Deployment:cpu: "512"
+  Atek-Deployment:memory: "128"
+  Atek-Deployment:path: ./infra-team-test/infra-web
+  aws:region: us-east-1

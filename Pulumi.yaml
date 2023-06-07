@@ -1,0 +1,6 @@
+name: Atek-Deployment
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Container Deployment
